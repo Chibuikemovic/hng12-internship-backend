@@ -38,4 +38,4 @@ GET https://your-deployed-url.com/
 }
 ```
 
-[HNG12 Internship-Backend](https://hng.tech/hire/nodejs-developers)
+[HNG12 Internship-Backend] (https://hng.tech/hire/nodejs-developers)
