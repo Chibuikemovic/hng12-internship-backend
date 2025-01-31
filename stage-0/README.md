@@ -37,3 +37,5 @@ GET https://your-deployed-url.com/
   "github_url": "https://github.com/yourusername/hng12-internship-backend"
 }
 ```
+
+https://hng.tech/hire/nodejs-developers
